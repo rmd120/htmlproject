@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	      <table>
+	           <thead><th colspan="3">Famous Monsters by Birth Year</th></thead>
+	      
+	            <thread></thread>
+	      
+	          <Tbody>
+	          
+	               <tr>
+	               
+	                        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                        </td>
+	                        
+	                        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                        </td>
+	                        
+	                        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                        </td>
+	
+	               </tr>
+	               
+	                        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                        </td>
+	                        
+	                        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                        </td>
+	                        
+	                        <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                        </td>
+	          
+	               <tr>
+	                        
+	                       <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                        
+	                       </td>
+	                       
+	                       <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                       
+	                       </td>
+	                       
+	                       <td><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5YsYpHI4PVht5drT77aoOVmbebxt9g6IA80o3FJ4loQ4zvnZFg"/>
+	                       
+	                       </td>
+	
+	               </tr>
+	
+	           
+	
+	               
+	 
+	          </Tbody>
+	          
+	       </table>
+	       
+	</body>
+	
+</html>
